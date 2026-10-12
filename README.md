@@ -1,4 +1,4 @@
-# Human values and prosocial self descriptions
+# Sustainability attitudes, human values and prosocial self-descriptions among business students: An exploratory secondary analysis
 
 Materials accompanying the expanded M2 manuscript and supplement. The package contains **four main tables, 29 supplementary tables (some divided into panels), and one model figure**. It is prepared for author review and later publication; no repository URL, DOI or public deposit is asserted.
 
