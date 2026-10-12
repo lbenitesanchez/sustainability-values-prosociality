@@ -1,0 +1,7 @@
+"check","passed","detail"
+"previous_S7_S8_numeric_export_available",TRUE,"/Users/luisbenites/Documents/Codex/Paper con MA - 1/Paquete_tablas_V3_y_datos_sinteticos_2026-10-10/ejecucion_RStudio_2026-10-11/tablas/resultados_base/02_S7_S8_caminos_numericos_IC_Holm18.csv"
+"S7/S8 b",TRUE,"4.996003610813204e-16"
+"S7/S8 beta",TRUE,"4.718447854656915e-16"
+"S7/S8 beta_ci_lower",TRUE,"4.996003610813204e-16"
+"S7/S8 beta_ci_upper",TRUE,"4.996003610813204e-16"
+"S7/S8 p_Holm_18",TRUE,"4.440892098500626e-16"

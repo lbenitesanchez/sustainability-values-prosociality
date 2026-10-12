@@ -1,0 +1,23 @@
+{
+  "scope": "Metadata/source-level and table-export checks, not statistical model re-estimation or formal privacy certification",
+  "table_ids": 33,
+  "table_panel_files": 37,
+  "preserved_sources_checked": 39,
+  "all_mapped_generators_exist": true,
+  "forbidden_participant_file_extensions_found": [],
+  "symlinks_found": [],
+  "common_credential_pattern_flags": [],
+  "metadata_header_review": {
+    "figure_manifest_id": "Model parameter ID, not respondent ID",
+    "archived_fold_metrics": "Aggregate n_test/error sums per fold, not individual allocation"
+  },
+  "table_comparison": {
+    "compared_files": 37,
+    "numeric_differences": 0,
+    "intentional_label_cells": 3,
+    "intentional_label_table": "S22",
+    "label_from": "CSR1: attended ethics/CSR course at university",
+    "label_to": "CSR1 course attendance"
+  },
+  "private_extraction": "Completed in clean Rscript --vanilla; 0 model fits; 24 legacy tables / 48 comparisons / 2710 cells / 0 unexplained differences; new complete M2 extraction completed"
+}

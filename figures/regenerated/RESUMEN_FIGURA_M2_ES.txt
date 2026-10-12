@@ -1,0 +1,9 @@
+Resumen de la figura M2
+
+Origen de la estructura: public exported structure . Se contrastó con la sintaxis archivada; no se reestimó ningún modelo. El modo público regenera la figura desde exportaciones y no reproduce la estimación desde datos individuales.
+El panel A representa las 21 regresiones focales; el panel B representa 24 cargas: 22 principales más las dos cruzadas de M2.
+Los cuatro retratos de valores aparecen como rectángulos observados separados. SC, SBL y PSB aparecen como óvalos. PP1–PP3 son indicadores observados de PSB en este SEM.
+La leyenda documenta las 49 regresiones de control, siete covarianzas residuales libres, las tres cargas marcadoras fijadas en 1 y los elementos omitidos por legibilidad.
+La clasificación completa de todos los parámetros está en M2_parameter_manifest.csv; los recuentos comprobados están en M2_figure_checks.csv.
+Los archivos PDF y SVG son vectoriales; el PNG de entrega mide 7800 × 5700 píxeles a 600 ppp. Figure_M2_preview.png es sólo una vista previa.
+No se utilizan índices, coeficientes ni resultados de otro modelo. Los colores y estilos no codifican significación estadística.

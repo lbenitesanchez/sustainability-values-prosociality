@@ -1,0 +1,54 @@
+Group,Variable,Level,n,Percent
+Pooled,CSR1_label,No,251,38.437978560490045
+Pooled,CSR1_label,Yes,402,61.562021439509955
+Pooled,Sexo,Female,341,52.22052067381317
+Pooled,Sexo,Male,312,47.77947932618683
+Pooled,Estudios,Graduate studies,198,30.321592649310873
+Pooled,Estudios,Undergraduate studies,455,69.67840735068913
+Pooled,NSE,Lower,5,0.7656967840735069
+Pooled,NSE,Middle,299,45.78866768759571
+Pooled,NSE,Middle-Lower,50,7.656967840735069
+Pooled,NSE,Middle-Upper,262,40.12251148545176
+Pooled,NSE,Upper,37,5.666156202143951
+Argentina,CSR1_label,No,110,76.38888888888889
+Argentina,CSR1_label,Yes,34,23.61111111111111
+Argentina,Sexo,Female,71,49.30555555555556
+Argentina,Sexo,Male,73,50.69444444444444
+Argentina,Estudios,Graduate studies,50,34.72222222222222
+Argentina,Estudios,Undergraduate studies,94,65.27777777777777
+Argentina,NSE,Lower,4,2.7777777777777777
+Argentina,NSE,Middle,50,34.72222222222222
+Argentina,NSE,Middle-Lower,25,17.36111111111111
+Argentina,NSE,Middle-Upper,55,38.19444444444444
+Argentina,NSE,Upper,10,6.944444444444445
+Colombia,CSR1_label,No,32,19.047619047619047
+Colombia,CSR1_label,Yes,136,80.95238095238095
+Colombia,Sexo,Female,79,47.023809523809526
+Colombia,Sexo,Male,89,52.976190476190474
+Colombia,Estudios,Graduate studies,55,32.73809523809524
+Colombia,Estudios,Undergraduate studies,113,67.26190476190476
+Colombia,NSE,Middle,87,51.785714285714285
+Colombia,NSE,Middle-Lower,6,3.5714285714285716
+Colombia,NSE,Middle-Upper,69,41.07142857142857
+Colombia,NSE,Upper,6,3.5714285714285716
+Peru,CSR1_label,No,65,39.877300613496935
+Peru,CSR1_label,Yes,98,60.122699386503065
+Peru,Sexo,Female,97,59.50920245398773
+Peru,Sexo,Male,66,40.49079754601227
+Peru,Estudios,Graduate studies,49,30.061349693251532
+Peru,Estudios,Undergraduate studies,114,69.93865030674847
+Peru,NSE,Lower,1,0.6134969325153374
+Peru,NSE,Middle,83,50.920245398773005
+Peru,NSE,Middle-Lower,18,11.042944785276074
+Peru,NSE,Middle-Upper,52,31.901840490797547
+Peru,NSE,Upper,9,5.521472392638037
+Mexico,CSR1_label,No,44,24.719101123595507
+Mexico,CSR1_label,Yes,134,75.28089887640449
+Mexico,Sexo,Female,94,52.80898876404494
+Mexico,Sexo,Male,84,47.19101123595506
+Mexico,Estudios,Graduate studies,44,24.719101123595507
+Mexico,Estudios,Undergraduate studies,134,75.28089887640449
+Mexico,NSE,Middle,79,44.38202247191011
+Mexico,NSE,Middle-Lower,1,0.5617977528089888
+Mexico,NSE,Middle-Upper,86,48.31460674157304
+Mexico,NSE,Upper,12,6.741573033707865

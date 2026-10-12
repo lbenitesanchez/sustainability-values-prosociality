@@ -1,0 +1,7 @@
+"model","N","fields","max_absolute_difference","comparison"
+"item_MLR",653,34,0,"Stored fit data vs row-aligned analytic data and original-label country dummy coding"
+"item_WLSMV",653,34,0,"Stored fit data vs row-aligned analytic data and original-label country dummy coding"
+"CFA_MLR",653,22,0,"Stored fit data vs row-aligned analytic data and original-label country dummy coding"
+"CFA_WLSMV",653,22,0,"Stored fit data vs row-aligned analytic data and original-label country dummy coding"
+"SEM_MLR",653,34,0,"Stored fit data vs row-aligned analytic data and original-label country dummy coding"
+"SEM_WLSMV",653,34,0,"Stored fit data vs row-aligned analytic data and original-label country dummy coding"

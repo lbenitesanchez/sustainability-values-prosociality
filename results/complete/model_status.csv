@@ -1,0 +1,7 @@
+"model","N","converged","admissible","estimator","se","conditional_x","fixed_x","parameterization"
+"item_MLR",653,TRUE,TRUE,"ML","robust.huber.white",FALSE,TRUE,"delta"
+"item_WLSMV",653,TRUE,TRUE,"DWLS","robust.sem",TRUE,TRUE,"theta"
+"CFA_MLR",653,TRUE,TRUE,"ML","robust.huber.white",FALSE,TRUE,"delta"
+"CFA_WLSMV",653,TRUE,TRUE,"DWLS","robust.sem",FALSE,TRUE,"theta"
+"SEM_MLR",653,TRUE,TRUE,"ML","robust.huber.white",FALSE,TRUE,"delta"
+"SEM_WLSMV",653,TRUE,TRUE,"DWLS","robust.sem",TRUE,TRUE,"theta"

@@ -1,0 +1,11 @@
+{
+  "operation": "existing-fit extraction and aggregate descriptions; no refitting",
+  "RNGkind": ["Mersenne-Twister", "Inversion", "Rejection"],
+  "seed": "None set: no stochastic operation",
+  "packages": {
+    "lavaan": "0.7.2",
+    "haven": "2.5.5",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.39"
+  }
+}

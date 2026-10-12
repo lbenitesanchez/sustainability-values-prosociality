@@ -1,0 +1,243 @@
+{
+  "word_table_panels_compared": 37,
+  "all_match": true,
+  "checks": [
+    {
+      "panel": "T1",
+      "rows": 8,
+      "columns": 5,
+      "pass": true
+    },
+    {
+      "panel": "T2",
+      "rows": 7,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "T3",
+      "rows": 7,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "T4",
+      "rows": 7,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S1",
+      "rows": 8,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S2",
+      "rows": 3,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "S3",
+      "rows": 6,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "S4",
+      "rows": 8,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "S5",
+      "rows": 4,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S6",
+      "rows": 7,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "S7",
+      "rows": 7,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "S8",
+      "rows": 7,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "S9",
+      "rows": 4,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S10",
+      "rows": 8,
+      "columns": 4,
+      "pass": true
+    },
+    {
+      "panel": "S11",
+      "rows": 29,
+      "columns": 7,
+      "pass": true
+    },
+    {
+      "panel": "S12",
+      "rows": 9,
+      "columns": 7,
+      "pass": true
+    },
+    {
+      "panel": "S13",
+      "rows": 9,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S14",
+      "rows": 13,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S15",
+      "rows": 4,
+      "columns": 8,
+      "pass": true
+    },
+    {
+      "panel": "S16",
+      "rows": 13,
+      "columns": 7,
+      "pass": true
+    },
+    {
+      "panel": "S17",
+      "rows": 10,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S18",
+      "rows": 10,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S19",
+      "rows": 25,
+      "columns": 8,
+      "pass": true
+    },
+    {
+      "panel": "S20",
+      "rows": 16,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S21",
+      "rows": 4,
+      "columns": 7,
+      "pass": true
+    },
+    {
+      "panel": "S22",
+      "rows": 19,
+      "columns": 7,
+      "pass": true
+    },
+    {
+      "panel": "S23",
+      "rows": 25,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S24",
+      "rows": 25,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S25",
+      "rows": 25,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S26",
+      "rows": 25,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S27",
+      "rows": 19,
+      "columns": 5,
+      "pass": true
+    },
+    {
+      "panel": "S28A1",
+      "rows": 22,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S28A2",
+      "rows": 50,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S28B1",
+      "rows": 22,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S28B2",
+      "rows": 50,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S29A",
+      "rows": 17,
+      "columns": 6,
+      "pass": true
+    },
+    {
+      "panel": "S29B",
+      "rows": 17,
+      "columns": 6,
+      "pass": true
+    }
+  ],
+  "logical_tables": 33,
+  "figure_count": 1,
+  "ethics_preserved": true,
+  "frozen_reference_files_unchanged": {
+    "Manuscript_V3_revised_7000_words.docx": true,
+    "Supplementary_V3_aligned.docx": true
+  },
+  "live_source_matches_initial_hash": {
+    "Manuscript_V3_revised_7000_words.docx": true,
+    "Supplementary_V3_aligned.docx": false
+  },
+  "excluded_private_formats": true,
+  "forbidden_files": [],
+  "manuscript_sha256": "08a9af6266864e027d3780df51298911d364919c38d962fe886a5ddb2241fd26",
+  "supplement_sha256": "41c362e48632eb67a2c8e050e7d5d755fe1ffd3cd0933c611fb7f157404428ef"
+}

@@ -1,0 +1,15 @@
+package,used_by,requirement_status
+lavaan,Saved-model extraction and CFA/SEM producers,Required for private extraction
+semTools,Legacy model table extraction and reliability producers,Required for private extraction
+haven,Original SPSS labels and sample descriptions,Required for private extraction; optional synthetic SAV export
+jsonlite,Structured extraction/protocol records,Required for private extraction
+digest,Source hashes and private provenance checks,Required for private extraction
+psych,Canonical data and measurement workflow,Original refitting only
+dplyr,Canonical data preparation,Original refitting only
+tidyr,Canonical data preparation,Original refitting only
+purrr,Canonical workflow mapping,Original refitting only
+readr,Canonical import/export,Original refitting only
+stringi,Original label normalization,Original refitting only
+MASS,Grouped ordinal probit baseline,Original prediction refitting only
+ordinal,Partial common-slope diagnostic,Original diagnostic refitting only
+nnet,Five-category ridge comparator,Original prediction refitting only

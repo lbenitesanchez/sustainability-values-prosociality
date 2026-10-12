@@ -1,0 +1,7 @@
+"check","result"
+"raw_n","653"
+"analytic_n","653"
+"participant_order","Exact match"
+"CSR1_semantic_recode","Original Yes=1/No=2 -> analytic Yes=1/No=0"
+"sex_education_age_NSE_match","Exact match"
+"global_z_scores","Exact within 1e-12"

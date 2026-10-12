@@ -1,0 +1,56 @@
+"variable","category","group","n","denominator","missing","percent"
+"Sex","Man","Overall",312,653,0,47.7794793261868
+"Sex","Man","Argentina",73,144,0,50.6944444444444
+"Sex","Man","Colombia",89,168,0,52.9761904761905
+"Sex","Man","Peru",66,163,0,40.4907975460123
+"Sex","Man","Mexico",84,178,0,47.1910112359551
+"Sex","Woman","Overall",341,653,0,52.2205206738132
+"Sex","Woman","Argentina",71,144,0,49.3055555555556
+"Sex","Woman","Colombia",79,168,0,47.0238095238095
+"Sex","Woman","Peru",97,163,0,59.5092024539877
+"Sex","Woman","Mexico",94,178,0,52.8089887640449
+"Education","Undergraduate","Overall",455,653,0,69.6784073506891
+"Education","Undergraduate","Argentina",94,144,0,65.2777777777778
+"Education","Undergraduate","Colombia",113,168,0,67.2619047619048
+"Education","Undergraduate","Peru",114,163,0,69.9386503067485
+"Education","Undergraduate","Mexico",134,178,0,75.2808988764045
+"Education","Postgraduate","Overall",198,653,0,30.3215926493109
+"Education","Postgraduate","Argentina",50,144,0,34.7222222222222
+"Education","Postgraduate","Colombia",55,168,0,32.7380952380952
+"Education","Postgraduate","Peru",49,163,0,30.0613496932515
+"Education","Postgraduate","Mexico",44,178,0,24.7191011235955
+"Socioeconomic level","Low","Overall",5,653,0,0.765696784073507
+"Socioeconomic level","Low","Argentina",4,144,0,2.77777777777778
+"Socioeconomic level","Low","Colombia",0,168,0,0
+"Socioeconomic level","Low","Peru",1,163,0,0.613496932515337
+"Socioeconomic level","Low","Mexico",0,178,0,0
+"Socioeconomic level","Lower-middle","Overall",50,653,0,7.65696784073507
+"Socioeconomic level","Lower-middle","Argentina",25,144,0,17.3611111111111
+"Socioeconomic level","Lower-middle","Colombia",6,168,0,3.57142857142857
+"Socioeconomic level","Lower-middle","Peru",18,163,0,11.0429447852761
+"Socioeconomic level","Lower-middle","Mexico",1,178,0,0.561797752808989
+"Socioeconomic level","Middle","Overall",299,653,0,45.7886676875957
+"Socioeconomic level","Middle","Argentina",50,144,0,34.7222222222222
+"Socioeconomic level","Middle","Colombia",87,168,0,51.7857142857143
+"Socioeconomic level","Middle","Peru",83,163,0,50.920245398773
+"Socioeconomic level","Middle","Mexico",79,178,0,44.3820224719101
+"Socioeconomic level","Upper-middle","Overall",262,653,0,40.1225114854518
+"Socioeconomic level","Upper-middle","Argentina",55,144,0,38.1944444444444
+"Socioeconomic level","Upper-middle","Colombia",69,168,0,41.0714285714286
+"Socioeconomic level","Upper-middle","Peru",52,163,0,31.9018404907975
+"Socioeconomic level","Upper-middle","Mexico",86,178,0,48.314606741573
+"Socioeconomic level","High","Overall",37,653,0,5.66615620214395
+"Socioeconomic level","High","Argentina",10,144,0,6.94444444444444
+"Socioeconomic level","High","Colombia",6,168,0,3.57142857142857
+"Socioeconomic level","High","Peru",9,163,0,5.52147239263804
+"Socioeconomic level","High","Mexico",12,178,0,6.74157303370786
+"CSR1: attended ethics/CSR course at university","No","Overall",251,653,0,38.43797856049
+"CSR1: attended ethics/CSR course at university","No","Argentina",110,144,0,76.3888888888889
+"CSR1: attended ethics/CSR course at university","No","Colombia",32,168,0,19.047619047619
+"CSR1: attended ethics/CSR course at university","No","Peru",65,163,0,39.8773006134969
+"CSR1: attended ethics/CSR course at university","No","Mexico",44,178,0,24.7191011235955
+"CSR1: attended ethics/CSR course at university","Yes","Overall",402,653,0,61.56202143951
+"CSR1: attended ethics/CSR course at university","Yes","Argentina",34,144,0,23.6111111111111
+"CSR1: attended ethics/CSR course at university","Yes","Colombia",136,168,0,80.952380952381
+"CSR1: attended ethics/CSR course at university","Yes","Peru",98,163,0,60.1226993865031
+"CSR1: attended ethics/CSR course at university","Yes","Mexico",134,178,0,75.2808988764045

@@ -1,0 +1,26 @@
+Exact table verification, 12 October 2026
+
+Current documents: Manuscript_V3_complete_M2.docx and
+Supplementary_V3_complete_M2.docx.
+
+The R master was executed in a clean RStudio background job using
+private_extract. All 33 logical tables (37 physical tables/panels) were
+compared with the current Word documents using literal character equality.
+
+Result: 3279/3279 cells identical, zero numerical or presentation differences.
+The comparison used no editorial exceptions, text normalization or numerical
+tolerances. An independent reading of Word and CSV confirmed the result.
+
+Only nine text cells differ from the previous extraction: two M0 labels,
+three CSR1 labels, and four real line breaks in institution headers.
+No numerical cells or Word documents were changed. Original statistical
+scripts, formulas, estimators and fitted objects were not modified.
+
+The final publication layer is documented in R/00_master.R. Private runs
+write publication_presentation_changes.csv with before/after text. The
+historical 24-table extractor remains unchanged and uses its frozen
+historical references; the exact comparison refers to the final 37 panels.
+
+Scope: extraction of saved fitted objects and aggregate formatting, plus
+sample descriptives. No model was refitted, and this verification does not
+claim a new reproduction of the full historical model-training workflow.

@@ -1,0 +1,3 @@
+# Archived summary statistics
+
+These are preserved aggregate summaries from the earlier SPSS/SEM delivery. The S1–S9 names in this workbook are sheet/file labels, not the S1–S29 tables in the revised supplementary document. The covariance/correlation matrices omit some analytical controls and do not encode the ordinal thresholds, raw response distribution, individual resampling membership or complete grouped cross-validation inputs. They do not reproduce the full V3 analysis by themselves. Current complete M2 coefficients are in results/complete; the current table map is documentation/table_map.csv.

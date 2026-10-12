@@ -1,0 +1,28 @@
+{
+  "manuscript": {
+    "file": "Manuscript_V3_complete_M2.docx",
+    "words_text_before_references": 6885,
+    "words_table_cells": 411,
+    "words_excluding_references": 7296,
+    "words_references": 818,
+    "words_including_references": 8114,
+    "physical_tables": 4,
+    "inline_figures": 1,
+    "ethics_text_sha256": "e4bfffe657fbcc6779d979e09c1d547a59ebc25fdf122aabe400698d4368d148",
+    "pages": 22
+  },
+  "supplement": {
+    "file": "Supplementary_V3_complete_M2.docx",
+    "words_text_before_references": 5859,
+    "words_table_cells": 7936,
+    "words_excluding_references": 13795,
+    "words_references": 91,
+    "words_including_references": 13886,
+    "physical_tables": 33,
+    "inline_figures": 0,
+    "ethics_text_sha256": "15c376d22c86a4530be0dedec61371b5c4d47041e7ab8bc965f1a158cab3413c",
+    "pages": 35
+  },
+  "logical_tables": 33,
+  "logical_supplement_tables": 29
+}

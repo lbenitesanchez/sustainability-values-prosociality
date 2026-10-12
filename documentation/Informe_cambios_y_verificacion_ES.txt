@@ -1,0 +1,33 @@
+INFORME DE ACTUALIZACIÓN Y VERIFICACIÓN
+Fecha: 11 de octubre de 2026
+
+BASE Y PRESERVACIÓN
+Se utilizó la V3 ampliada (Manuscript_V3_revised_7000_words.docx y Supplementary_V3_aligned.docx). No se encontró una versión identificada por nombre como Journal of Cleaner Production en las carpetas revisadas. Se conservaron copias iniciales y sus hashes. Los párrafos completos que contienen las declaraciones éticas permanecen idénticos. Durante la sesión cambió el archivo vivo del suplemento en Dropbox: diferencias menores de estilo y un nombre de archivo, sin cambios en tablas ni ética. Se conservó una copia de esa revisión observada; los entregables se basan en la referencia congelada inicial. No se sobrescribieron las versiones fuente.
+
+CAMBIOS EDITORIALES
+El manuscrito contiene cuatro tablas: T1 ajuste estructural bajo siete especificaciones de medición; T2 asociaciones seleccionadas del SEM con factor PSB; T3 las 18 asociaciones MLR de los seis predictores focales con PP1, PP2 y PP3; T4 predicción agrupada (anterior T3). T3 mantiene los resultados de S7, con sus propios intervalos estandarizados y la familia Holm18. Se conservaron todas las filas, no solo las respaldadas.
+Se añadió Figura 1 con las 21 rutas focales reales de M2, los cuatro valores observados, SC/SBL/PSB latentes, CSR1, las cargas cruzadas SC→APS13 y SBL→APS2 y la medición de PSB por PP1–PP3. La leyenda identifica los controles y covarianzas omitidos del dibujo y el carácter transversal de las regresiones. Se entregan PDF/SVG vectoriales y PNG de 600 dpi.
+Se actualizaron numeración, referencias cruzadas y declaraciones sobre archivos disponibles. No se cambió el objetivo teórico ni se añadieron datos, constructos, rutas o hipótesis.
+
+SUPLEMENTO
+Se conservaron S1–S21 y se añadieron S22–S29:
+S22: descripción global y por institución con denominadores y valores ausentes.
+S23–S26: 24 cargas por ajuste, separando M2-CFA/M2-SEM y MLR/WLSMV; b y beta con sus propios intervalos; marcadores identificados como fijos.
+S27: correlaciones factoriales totales y correlaciones de perturbaciones separadas. Se añadieron los seis intervalos CFA disponibles; no se inventaron intervalos de correlaciones totales SEM.
+S28: 21 rutas focales y 49 coeficientes de control por estimador, en cuatro paneles.
+S29: 16 cantidades indirectas definidas por estimador, en dos paneles.
+Son 29 tablas suplementarias lógicas; algunas usan varios paneles. Con las cuatro principales hay 33 tablas y 37 matrices CSV.
+
+TRABAJO COMPUTACIONAL REALIZADO
+Se ejecutaron en Rscript --vanilla la extracción de seis objetos existentes, descriptivos de la base original, el formateo/cotejo de tablas, la generación de la figura y el generador artificial. No se reestimaron CFA/SEM ni se reentrenaron modelos predictivos en esta actualización.
+Los datos internos de los seis ajustes coinciden con los 653 registros analíticos: diferencia máxima cero. La nueva T3 coincide con S7 y se mantiene la comparación ordinal S8. El cotejo histórico cubrió 24 tablas, 48 comparaciones y 2710 celdas sin discrepancias inexplicadas; el cotejo final compara los 37 paneles Word con los CSV entregados. Las etiquetas M0 Original/Baseline y la abreviación del rótulo CSR1 son diferencias editoriales declaradas, no numéricas.
+Se aclaró una inconsistencia de descripción: las regresiones usan Holm sobre p no estandarizados; los indirectos históricos usaban p de la solución estandarizada. S29 conserva esa regla original. Se entrega una auditoría alternativa sobre p no estandarizados: los valores ajustados difieren hasta 0.02207442 (MLR) y 0.00605403 (WLSMV), sin cambiar ninguna decisión a .05.
+La figura se regeneró también desde entradas públicas agregadas, sin RDS privado; SVG y PNG coinciden byte a byte. El ejemplo artificial generó 800 filas y 49 variables y pasó 17 comprobaciones; no reproduce resultados empíricos.
+
+REVISIÓN FINAL
+Manuscrito: 22 páginas, 6885 palabras de texto anterior a referencias (incluye resumen, títulos, leyendas y notas); 7296 contando las celdas de tablas; 8114 incluyendo referencias. Suplemento: 35 páginas. Se inspeccionaron todas las páginas renderizadas a resolución original; se corrigieron notas aisladas y divisiones de tablas. No se observaron recortes, solapamientos ni títulos huérfanos en la revisión final.
+
+PAQUETE Y LÍMITES
+El ZIP contiene Word, figura, tablas, parámetros agregados, diccionarios, matrices históricas identificadas como tales, scripts ordenados, mapa de tablas/código, entornos y README. El modo predeterminado del maestro R comprueba exportaciones; el modo privado requiere rutas explícitas y extrae objetos existentes. Se conserva el código histórico de ajuste con su orden y dependencias, sin presentarlo como un flujo completo ejecutable desde los agregados públicos.
+No se incluyen la base individual, objetos de ajuste que contienen respuestas, predicciones individuales ni particiones privadas. La reproducción completa requiere acceso autorizado a esos insumos y a las dependencias especificadas. Las matrices resumidas no bastan para reproducir análisis ordinales o validación cruzada.
+La forma original de administración, los denominadores de invitación y algunos registros históricos siguen sin estar disponibles; no se reconstruyeron ni inventaron. No se publicó ningún repositorio, DOI, envío editorial o base individual. La elección de revista y las condiciones de publicación pública de datos/código quedan en manos de los autores.

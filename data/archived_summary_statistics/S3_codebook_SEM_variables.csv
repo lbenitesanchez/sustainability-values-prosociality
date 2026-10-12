@@ -1,0 +1,28 @@
+Variable,Construct,Scale,Type,Included_in_SEM,Item_label,Notes
+Benevolencia,Self-transcendence / Self-enhancement,Likert 1-6,Observed item,TRUE,A esta persona le gusta ser leal a sus amigos y ayudar incondicionalmente a las personas cercanas a ella.,
+Universalismo,Self-transcendence / Self-enhancement,Likert 1-6,Observed item,TRUE,"A esta persona le gusta cuidar la naturaleza y buscar la paz, la igualdad y la justicia social.",
+Poder,Self-transcendence / Self-enhancement,Likert 1-6,Observed item,TRUE,"A esta persona le gusta ser la que toma las decisiones, tener poder, ganar dinero y obtener un buen estatus.",
+Logro,Self-transcendence / Self-enhancement,Likert 1-6,Observed item,TRUE,"A esta persona le gusta destacar, demostrar a los demás que puede hacer las cosas bien y ser admirada por ello.",
+APS1,SC,Likert 1-5,Observed item,TRUE,1. Para el desarrollo de la empresa consideraría necesario involucrar de manera progresiva a la comunidad.,
+APS2,SC,Likert 1-5,Observed item,TRUE,2. Me motivaría buscar la rentabilidad de la empresa para lograr una sociedad más justa y solidaria.,
+APS3,SC,Likert 1-5,Observed item,TRUE,3. La empresa debería estar basada en el entendimiento y respeto de la diversidad cultural.,
+APS4,SC,Likert 1-5,Observed item,TRUE,4. Consideraría fundamental que los productos y servicios de la empresa siempre tengan un impacto social positivo.,
+APS5,SC,Likert 1-5,Observed item,TRUE,5. Consideraría importante que los productos y servicios de la empresa siempre protejan el medio ambiente.,
+APS6,SC,Likert 1-5,Observed item,TRUE,"6. Como líder de la empresa, consideraría importante que desde las ciencias empresariales se estimule la reflexión en políticas públicas y sociales.",
+APS7,SC,Likert 1-5,Observed item,TRUE,"7. Como líder de la empresa, consideraría importante que desde las ciencias empresariales se concientice a las personas sobre las consecuencias de sus prácticas de consumo.",
+APS9,SC,Likert 1-5,Observed item,TRUE,9. La empresa debería promover enfáticamente el cuidado de los recursos naturales.,
+APS10,SC,Likert 1-5,Observed item,TRUE,"10. Como líder de la empresa, consideraría importante fortalecer las alianzas con organizaciones que promuevan la sostenibilidad ambiental y social.",
+APS14,SC,Likert 1-5,Observed item,TRUE,14. Desarrollaría la empresa pensando en su impacto social y ambiental.,
+APS11,SBL,Likert 1-5,Observed item,TRUE,"11. En la empresa, antes que el beneficio económico me interesaría, desarrollar capacidades en las personas.",
+APS12,SBL,Likert 1-5,Observed item,TRUE,"12. Si identificara situaciones sociales en mi país que consideraría injustas, haría lo posible por cambiarlas desde mi posición de líder empresarial.",
+APS13,SBL,Likert 1-5,Observed item,TRUE,"13. La empresa debería interactuar con la comunidad, comprender sus problemas y brindar soluciones.",
+APS15,SBL,Likert 1-5,Observed item,TRUE,15. Mi actividad como líder de la empresa no estaría ajena a la realidad social de mi país.,
+APS16,SBL,Likert 1-5,Observed item,TRUE,16. Mi actividad como líder de la empresa debería despertar la sensibilidad social de las personas.,
+APS18,SBL,Likert 1-5,Observed item,TRUE,18. El propósito de la empresa sería construir una sociedad más justa y solidaria.,
+APS19,SBL,Likert 1-5,Observed item,TRUE,19. Mi realización personal viene acompañada del crecimiento de mis conciudadanos.,
+APS20,SBL,Likert 1-5,Observed item,TRUE,20. Estaría dispuesto a sacrificar rentabilidad para mantener la integridad y el impacto social positivo de la empresa.,
+APS21,SBL,Likert 1-5,Observed item,TRUE,21. Mi historia personal y familiar me ha hecho consciente de mi deber para mejorar la sociedad.,
+PP1,PSB,Likert 1-5,Observed item,TRUE,"1. En mi vida personal, apoyo de manera realista y práctica a los demás, especialmente a quienes más lo necesitan o están en dificultades.",Retained PSB indicator
+PP2,PSB,Likert 1-5,Observed item,TRUE,"2. En mi vida personal, comparto con los demás mis recursos, conocimientos y capacidades, así como las oportunidades positivas que se me presentan a nivel laboral y personal.",Retained PSB indicator
+PP3,PSB,Likert 1-5,Observed item,TRUE,"3. En mi vida personal, aunque no me lo comuniquen, intuyo el malestar de los demás, y procuro comprenderlos y ayudarlos a sentirse mejor.",Retained PSB indicator
+CSR1_bin,CSR1,0 = no; 1 = yes,Observed binary variable,TRUE,NA,Binary exogenous predictor used in corrected SEM

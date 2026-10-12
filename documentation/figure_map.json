@@ -1,0 +1,15 @@
+{
+  "figure_id": "Figure 1",
+  "document": "Manuscript_V3_complete_M2.docx",
+  "files": [
+    "figures/Figure_M2_verified.svg",
+    "figures/Figure_M2_verified.pdf",
+    "figures/Figure_M2_verified_600dpi.png"
+  ],
+  "model": "M2 factor-PSB SEM",
+  "estimator": "MLR",
+  "N": 653,
+  "source": "M2_puentes2_SEM_MLR.rds and M2_puentes2_syntax.txt",
+  "generator": "R/02_draw_M2.R",
+  "operation": "Diagram of stored syntax; no refit"
+}

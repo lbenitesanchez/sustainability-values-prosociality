@@ -1,0 +1,8 @@
+"Model","Measurement / cross-loadings","SEM scale","Factor relation / rotation"
+"M0","SC/SBL primary loading only; PSB PP1-PP3; all other crossloadings zero","SC: loading APS1=1; SBL: loading APS11=1; PSB: loading PP1=1","APS factors freely covary in CFA; APS disturbance covariance estimated in SEM; None"
+"M1","Single SA factor for all 19 APS; separate PSB; other crossloadings zero","SA: loading APS1=1; PSB: loading PP1=1","SA and PSB freely covary in CFA; PSB regressed on SA in SEM; None"
+"M2","M0 plus APS2 on SBL and APS13 on SC; all other crossloadings zero","SC: loading APS1=1; SBL: loading APS11=1; PSB: loading PP1=1","APS factors freely covary in CFA; APS disturbance covariance estimated in SEM; None"
+"M3","M0 plus APS2 and APS14 on SBL; APS13 and APS18 on SC; other crossloadings zero","SC: loading APS1=1; SBL: loading APS11=1; PSB: loading PP1=1","APS factors freely covary in CFA; APS disturbance covariance estimated in SEM; None"
+"M4","SCref on all 19 APS; SBLspec on 9 SBL items; PSB separate; others zero","SCref: loading APS1=1; SBLspec: loading APS11=1; PSB: loading PP1=1","Reference-specific covariance zero in CFA; disturbance covariance zero in SEM; None"
+"M5","SBLref on all 19 APS; SCspec on 10 SC items; PSB separate; others zero","SBLref: loading APS1=1; SCspec: loading APS1=1; PSB: loading PP1=1","Reference-specific covariance zero in CFA; disturbance covariance zero in SEM; None"
+"M6","Both APS factors load on all 19 APS; PSB CFA PP1-PP3; APS target zeros are soft, not fixed","EFA unit disturbance variances before rotation; PSB loading PP1 fixed to 1","APS factors freely covary in CFA; APS disturbance covariance estimated in SEM; Oblique target; 2 active constraints; factor sign/label orientation is rotational"

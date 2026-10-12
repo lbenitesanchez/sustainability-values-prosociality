@@ -1,0 +1,5 @@
+PASS: all private inputs unchanged by SHA-256.
+PASS: 653 cases in raw, analytic and each saved fit.
+PASS: new main T3 matches old S7 numeric paths and Holm18.
+PASS: every loading/regression/indirect estimate paired with its own-scale interval.
+No model re-estimation, no new exclusions, no altered specification, no participant-level exports.

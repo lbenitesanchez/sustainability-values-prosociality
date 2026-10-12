@@ -1,0 +1,11 @@
+"model","domain","quantity","estimator","value"
+"M0_original","SC","AVE","MLR",0.460411778383356
+"M0_original","SBL","AVE","MLR",0.443328225586203
+"M0_original","PSB","AVE","MLR",0.45833037882159
+"M4_S1_refSC","SBLspec","omega_HS","MLR",0.315431417100509
+"M5_S1_refSBL","SCspec","omega_HS","MLR",0.271164225258847
+"M0_original","SC","AVE","WLSMV",0.633292425646388
+"M0_original","SBL","AVE","WLSMV",0.576007422546297
+"M0_original","PSB","AVE","WLSMV",0.556081441453512
+"M4_S1_refSC","SBLspec","omega_HS","WLSMV",0.252835474014079
+"M5_S1_refSBL","SCspec","omega_HS","WLSMV",0.283455698671047

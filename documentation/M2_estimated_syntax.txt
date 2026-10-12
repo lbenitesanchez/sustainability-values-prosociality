@@ -1,0 +1,32 @@
+SC =~ APS1 + APS2 + APS3 + APS4 + APS5 + APS6 + APS7 + APS9 + APS10 + APS14
+SBL =~ APS11 + APS12 + APS13 + APS15 + APS16 + APS18 + APS19 + APS20 + APS21
+PSB =~ PP1 + PP2 + PP3
+SBL =~ APS2
+SC =~ APS13
+Benevolencia ~ a1*CSR1_bin + C_Colombia + C_Peru + C_Mexico + Sexo_num + Estudios_num + Edad_z + NSE_z
+Universalismo ~ a2*CSR1_bin + C_Colombia + C_Peru + C_Mexico + Sexo_num + Estudios_num + Edad_z + NSE_z
+Poder ~ a3*CSR1_bin + C_Colombia + C_Peru + C_Mexico + Sexo_num + Estudios_num + Edad_z + NSE_z
+Logro ~ a4*CSR1_bin + C_Colombia + C_Peru + C_Mexico + Sexo_num + Estudios_num + Edad_z + NSE_z
+SC ~ b1_1*Benevolencia + b1_2*Universalismo + b1_3*Poder + b1_4*Logro + q1*CSR1_bin + C_Colombia + C_Peru + C_Mexico + Sexo_num + Estudios_num + Edad_z + NSE_z
+SBL ~ b2_1*Benevolencia + b2_2*Universalismo + b2_3*Poder + b2_4*Logro + q2*CSR1_bin + C_Colombia + C_Peru + C_Mexico + Sexo_num + Estudios_num + Edad_z + NSE_z
+PSB ~ d1*SC + d2*SBL + p1*Benevolencia + p2*Universalismo + p3*Poder + p4*Logro + qpsb*CSR1_bin + C_Colombia + C_Peru + C_Mexico + Sexo_num + Estudios_num + Edad_z + NSE_z
+Benevolencia ~~ Universalismo + Poder + Logro
+Universalismo ~~ Poder + Logro
+Poder ~~ Logro
+SC ~~ SBL
+ind_1_1 := b1_1*d1
+ind_1_2 := b2_1*d2
+ind_1_total := b1_1*d1 + b2_1*d2
+ind_2_1 := b1_2*d1
+ind_2_2 := b2_2*d2
+ind_2_total := b1_2*d1 + b2_2*d2
+ind_3_1 := b1_3*d1
+ind_3_2 := b2_3*d2
+ind_3_total := b1_3*d1 + b2_3*d2
+ind_4_1 := b1_4*d1
+ind_4_2 := b2_4*d2
+ind_4_total := b1_4*d1 + b2_4*d2
+CSR_via_values := a1*(p1 + b1_1*d1 + b2_1*d2) + a2*(p2 + b1_2*d1 + b2_2*d2) + a3*(p3 + b1_3*d1 + b2_3*d2) + a4*(p4 + b1_4*d1 + b2_4*d2)
+CSR_via_att1 := q1*d1
+CSR_via_att2 := q2*d2
+CSR_total_indirect := a1*(p1 + b1_1*d1 + b2_1*d2) + a2*(p2 + b1_2*d1 + b2_2*d2) + a3*(p3 + b1_3*d1 + b2_3*d2) + a4*(p4 + b1_4*d1 + b2_4*d2) + q1*d1 + q2*d2

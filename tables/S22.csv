@@ -1,0 +1,23 @@
+"Variable","Category","Overall","Institution in
+Argentina","Institution in
+Colombia","Institution in
+Peru","Institution in
+Mexico"
+"Sample","N","653","144","168","163","178"
+"Age","Mean (SD)","25.34 (8.69)","26.70 (9.37)","26.24 (8.06)","25.35 (9.34)","23.38 (7.72)"
+"Age","Observed / missing","653 / 0","144 / 0","168 / 0","163 / 0","178 / 0"
+"Sex","Man","312 (47.8%)","73 (50.7%)","89 (53.0%)","66 (40.5%)","84 (47.2%)"
+"Sex","Woman","341 (52.2%)","71 (49.3%)","79 (47.0%)","97 (59.5%)","94 (52.8%)"
+"Sex","Denominator / missing","653 / 0","144 / 0","168 / 0","163 / 0","178 / 0"
+"Education","Undergraduate","455 (69.7%)","94 (65.3%)","113 (67.3%)","114 (69.9%)","134 (75.3%)"
+"Education","Postgraduate","198 (30.3%)","50 (34.7%)","55 (32.7%)","49 (30.1%)","44 (24.7%)"
+"Education","Denominator / missing","653 / 0","144 / 0","168 / 0","163 / 0","178 / 0"
+"Socioeconomic level","Low","5 (0.8%)","4 (2.8%)","0 (0.0%)","1 (0.6%)","0 (0.0%)"
+"Socioeconomic level","Lower-middle","50 (7.7%)","25 (17.4%)","6 (3.6%)","18 (11.0%)","1 (0.6%)"
+"Socioeconomic level","Middle","299 (45.8%)","50 (34.7%)","87 (51.8%)","83 (50.9%)","79 (44.4%)"
+"Socioeconomic level","Upper-middle","262 (40.1%)","55 (38.2%)","69 (41.1%)","52 (31.9%)","86 (48.3%)"
+"Socioeconomic level","High","37 (5.7%)","10 (6.9%)","6 (3.6%)","9 (5.5%)","12 (6.7%)"
+"Socioeconomic level","Denominator / missing","653 / 0","144 / 0","168 / 0","163 / 0","178 / 0"
+"CSR1 course attendance","No","251 (38.4%)","110 (76.4%)","32 (19.0%)","65 (39.9%)","44 (24.7%)"
+"CSR1 course attendance","Yes","402 (61.6%)","34 (23.6%)","136 (81.0%)","98 (60.1%)","134 (75.3%)"
+"CSR1 course attendance","Denominator / missing","653 / 0","144 / 0","168 / 0","163 / 0","178 / 0"
