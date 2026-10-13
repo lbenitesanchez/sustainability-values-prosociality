@@ -135,4 +135,4 @@ Original seeds and RNG settings remain in their producer scripts. The grouped ba
 
 Before public sharing, verify the assembled package against the final table map, inspect the final rendered Word files, and exclude original SAV files, participant RDS/RData, per-person records, private fitted objects, individual predictions, fold assignments, tokens and credentials. Public scripts may refer to those files; such references are not permission to publish them. Summary matrices omit some controls and do not encode ordinal thresholds, response distributions or CV partitions, so they cannot reproduce every V3 analysis by themselves.
 
-The materials are prepared for author review and later repository publication. No GitHub URL, DOI, public deposit, submission or acceptance is asserted.
+The public analytical materials are available at https://github.com/lbenitesanchez/sustainability-values-prosociality. The availability of these materials does not imply public access to the original participant records or private fitted objects.

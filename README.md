@@ -1,6 +1,6 @@
 # Sustainability attitudes, human values and prosocial self-descriptions among business students: An exploratory secondary analysis
 
-Materials accompanying the expanded M2 manuscript and supplement. The package contains **four main tables, 29 supplementary tables (some divided into panels), and one model figure**. It is prepared for author review and later publication; no repository URL, DOI or public deposit is asserted.
+Materials accompanying the expanded M2 manuscript and supplement. The package contains **four main tables, 29 supplementary tables (some divided into panels), and one model figure**. The public analytical materials are available in this repository: https://github.com/lbenitesanchez/sustainability-values-prosociality. Original participant records and private fitted objects are not included.
 
 ## Start here
 
