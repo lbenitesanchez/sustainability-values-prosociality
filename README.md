@@ -16,7 +16,6 @@ The complete mapping is [documentation/table_map.csv](documentation/table_map.cs
 
 ## Contents
 
-- `manuscript/`: the expanded English Word documents.
 - `tables/`: the exact formatted tables and panels used in Word.
 - `results/complete/`: full-precision aggregate parameters, sample summaries and numerical checks.
 - `data/`: the original-variable and analytical-control dictionaries, data-access instructions, historical summary matrices and explicitly artificial demonstration data.
